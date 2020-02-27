@@ -1,0 +1,8 @@
+Sublime Text download: 
+	https://www.sublimetext.com/3
+
+Jon Duckett Build Websites in HTML and CSS: 
+	https://wtf.tw/ref/duckett.pdf
+
+W3 Schools Html:
+	https://www.w3schools.com/html/
